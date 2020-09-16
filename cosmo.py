@@ -9,10 +9,6 @@
 #comovingvolume(z) -- [Gpc^3](comovingvolume to z)
 #luminositydistance(z) [Mpc]-- (luminositydistance to z)
 
-#import sys
-#sys.path.append('/Users/polgurri/Desktop/SWINBURNE/coding/cosmology')
-#import cosmo
-
 
 
 from scipy.integrate import quad as _quad
